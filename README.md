@@ -37,6 +37,6 @@ This is the second dangerous part of the package, currently if you enter travel 
 
 I have this set for me personally so I can simply type travel and then copy and paste a port code from a locate object or locate life search. However, if you are not careful this can lead to accidently trying to travel to somewhere you don't want. For example in it's current state if you use "travel caemlyn" it won't take you to the caemlyn saved port code. It will use the word caemlyn as your port code and thus have undesired effects. 
 
-### PLEASE TAKE CARE WHEN USING THIS TRAVEL SCRIPT
+#### <ins>PLEASE TAKE CARE WHEN USING THIS TRAVEL SCRIPT</ins>
 
 I will work to safe proofing this further in the future, currently using it for myself more than others. But with sharing it I will work to make sure it's safe for those using it.
